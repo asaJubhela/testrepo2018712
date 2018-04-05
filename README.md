@@ -1,2 +1,2 @@
-# testrepo2018712
-A simple test for learning GitHub.
+# Test repo
+A simple test for learning GitHub website and desktop app.
